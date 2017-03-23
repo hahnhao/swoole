@@ -1,0 +1,2 @@
+{"user":{"cmd":"login","fd":1,"name":"xiaoxi","avatar":"https:\/\/image.egret.com\/game\/gameIcon\/0\/257\/icon_200.png","uId":"1"},"msg":{"cmd":"message","from":"1","channal":0,"data":"11","type":"text"},"time":1486346709,"type":"text"}
+{"user":{"cmd":"login","fd":2,"name":"xiaoxi","avatar":"https:\/\/image.egret.com\/game\/gameIcon\/0\/257\/icon_200.png","uId":"1"},"msg":{"cmd":"message","from":"1","channal":0,"data":"111","type":"text"},"time":1486347498,"type":"text"}

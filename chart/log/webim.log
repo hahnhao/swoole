@@ -1,0 +1,520 @@
+[2017-01-13 19:11:45]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-01-13 19:11:48]	INFO	WebSocket connection #1 is connected
+[2017-01-13 19:11:48]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-13 19:11:48]	INFO	[1] opcode=1
+[2017-01-13 19:11:48]	INFO	onMessage #1: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-13 19:11:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-13 19:11:48]	INFO	[1] opcode=1
+[2017-01-13 19:11:48]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2017-01-13 19:11:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-13 19:11:48]	INFO	[1] opcode=1
+[2017-01-13 19:12:33]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-01-13 19:12:37]	INFO	WebSocket connection #1 is connected
+[2017-01-13 19:12:37]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-13 19:12:37]	INFO	[1] opcode=1
+[2017-01-13 19:12:37]	INFO	onMessage #1: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-13 19:12:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-13 19:12:37]	INFO	[1] opcode=1
+[2017-01-13 19:12:37]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2017-01-13 19:12:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-13 19:12:37]	INFO	[1] opcode=1
+[2017-01-16 10:13:47]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-01-16 10:17:14]	INFO	WebSocket connection #1 is connected
+[2017-01-16 10:17:14]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:17:14]	INFO	[1] opcode=1
+[2017-01-16 10:17:14]	INFO	onMessage #1: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:17:14]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:17:14]	INFO	[1] opcode=1
+[2017-01-16 10:17:14]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2017-01-16 10:17:14]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:17:14]	INFO	[1] opcode=1
+[2017-01-16 10:17:14]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2017-01-16 10:17:38]	INFO	WebSocket connection #2 is connected
+[2017-01-16 10:17:38]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:17:38]	INFO	[2] opcode=1
+[2017-01-16 10:17:38]	INFO	onMessage #2: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:17:39]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:17:39]	INFO	[2] opcode=1
+[2017-01-16 10:17:39]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2017-01-16 10:17:39]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:17:39]	INFO	[2] opcode=1
+[2017-01-16 10:17:39]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2017-01-16 10:17:49]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:17:49]	INFO	[2] opcode=8
+[2017-01-16 10:17:49]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:17:49]	INFO	onOffline: 2
+[2017-01-16 10:17:49]	INFO	WebSocket connection #3 is connected
+[2017-01-16 10:17:49]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:17:49]	INFO	[3] opcode=1
+[2017-01-16 10:17:49]	INFO	onMessage #3: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:17:49]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:17:49]	INFO	[3] opcode=1
+[2017-01-16 10:17:49]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2017-01-16 10:17:49]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:17:49]	INFO	[3] opcode=1
+[2017-01-16 10:17:49]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2017-01-16 10:18:01]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:01]	INFO	[3] opcode=8
+[2017-01-16 10:18:01]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:01]	INFO	onOffline: 3
+[2017-01-16 10:18:15]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:15]	INFO	[1] opcode=8
+[2017-01-16 10:18:15]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:15]	INFO	onOffline: 1
+[2017-01-16 10:18:15]	INFO	WebSocket connection #4 is connected
+[2017-01-16 10:18:15]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:15]	INFO	[4] opcode=1
+[2017-01-16 10:18:15]	INFO	onMessage #4: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:15]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:15]	INFO	[4] opcode=1
+[2017-01-16 10:18:15]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2017-01-16 10:18:16]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:16]	INFO	[4] opcode=1
+[2017-01-16 10:18:16]	INFO	onMessage #4: {"cmd":"getHistory"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:17]	INFO	[4] opcode=8
+[2017-01-16 10:18:17]	INFO	server close connection[4]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:17]	INFO	onOffline: 4
+[2017-01-16 10:18:17]	INFO	WebSocket connection #5 is connected
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:17]	INFO	[5] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #5: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:17]	INFO	[5] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #5: {"cmd":"getOnline"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:17]	INFO	[5] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #5: {"cmd":"getHistory"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:17]	INFO	[5] opcode=8
+[2017-01-16 10:18:17]	INFO	server close connection[5]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:17]	INFO	onOffline: 5
+[2017-01-16 10:18:17]	INFO	WebSocket connection #6 is connected
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:17]	INFO	[6] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #6: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:17]	INFO	[6] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #6: {"cmd":"getOnline"}
+[2017-01-16 10:18:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:17]	INFO	[6] opcode=1
+[2017-01-16 10:18:17]	INFO	onMessage #6: {"cmd":"getHistory"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:18]	INFO	[6] opcode=8
+[2017-01-16 10:18:18]	INFO	server close connection[6]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:18]	INFO	onOffline: 6
+[2017-01-16 10:18:18]	INFO	WebSocket connection #7 is connected
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:18]	INFO	[7] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #7: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:18]	INFO	[7] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #7: {"cmd":"getOnline"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:18]	INFO	[7] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #7: {"cmd":"getHistory"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:18]	INFO	[7] opcode=8
+[2017-01-16 10:18:18]	INFO	server close connection[7]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:18]	INFO	onOffline: 7
+[2017-01-16 10:18:18]	INFO	WebSocket connection #8 is connected
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:18]	INFO	[8] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #8: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:18]	INFO	[8] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #8: {"cmd":"getOnline"}
+[2017-01-16 10:18:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:18]	INFO	[8] opcode=1
+[2017-01-16 10:18:18]	INFO	onMessage #8: {"cmd":"getHistory"}
+[2017-01-16 10:18:19]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:18:19]	INFO	[8] opcode=8
+[2017-01-16 10:18:19]	INFO	server close connection[8]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:18:19]	INFO	onOffline: 8
+[2017-01-16 10:18:19]	INFO	WebSocket connection #9 is connected
+[2017-01-16 10:18:19]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:18:19]	INFO	[9] opcode=1
+[2017-01-16 10:18:19]	INFO	onMessage #9: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:18:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:18:19]	INFO	[9] opcode=1
+[2017-01-16 10:18:19]	INFO	onMessage #9: {"cmd":"getOnline"}
+[2017-01-16 10:18:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:18:19]	INFO	[9] opcode=1
+[2017-01-16 10:18:19]	INFO	onMessage #9: {"cmd":"getHistory"}
+[2017-01-16 10:19:10]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:19:10]	INFO	[9] opcode=8
+[2017-01-16 10:19:10]	INFO	server close connection[9]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:19:10]	INFO	onOffline: 9
+[2017-01-16 10:19:10]	INFO	WebSocket connection #10 is connected
+[2017-01-16 10:19:10]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:19:10]	INFO	[10] opcode=1
+[2017-01-16 10:19:10]	INFO	onMessage #10: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:19:10]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:19:10]	INFO	[10] opcode=1
+[2017-01-16 10:19:10]	INFO	onMessage #10: {"cmd":"getOnline"}
+[2017-01-16 10:19:10]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:19:10]	INFO	[10] opcode=1
+[2017-01-16 10:19:10]	INFO	onMessage #10: {"cmd":"getHistory"}
+[2017-01-16 10:19:16]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:19:16]	INFO	[10] opcode=8
+[2017-01-16 10:19:16]	INFO	server close connection[10]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:19:16]	INFO	onOffline: 10
+[2017-01-16 10:19:16]	INFO	WebSocket connection #11 is connected
+[2017-01-16 10:19:16]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:19:16]	INFO	[11] opcode=1
+[2017-01-16 10:19:16]	INFO	onMessage #11: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:19:16]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:19:16]	INFO	[11] opcode=1
+[2017-01-16 10:19:16]	INFO	onMessage #11: {"cmd":"getOnline"}
+[2017-01-16 10:19:16]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:19:16]	INFO	[11] opcode=1
+[2017-01-16 10:19:16]	INFO	onMessage #11: {"cmd":"getHistory"}
+[2017-01-16 10:19:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:19:17]	INFO	[11] opcode=8
+[2017-01-16 10:19:17]	INFO	server close connection[11]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:19:17]	INFO	onOffline: 11
+[2017-01-16 10:19:17]	INFO	WebSocket connection #12 is connected
+[2017-01-16 10:19:18]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:19:18]	INFO	[12] opcode=1
+[2017-01-16 10:19:18]	INFO	onMessage #12: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:19:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:19:18]	INFO	[12] opcode=1
+[2017-01-16 10:19:18]	INFO	onMessage #12: {"cmd":"getOnline"}
+[2017-01-16 10:19:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:19:18]	INFO	[12] opcode=1
+[2017-01-16 10:19:18]	INFO	onMessage #12: {"cmd":"getHistory"}
+[2017-01-16 10:20:37]	INFO	WebSocket connection #13 is connected
+[2017-01-16 10:20:37]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:20:37]	INFO	[13] opcode=1
+[2017-01-16 10:20:37]	INFO	onMessage #13: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:20:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:20:37]	INFO	[13] opcode=1
+[2017-01-16 10:20:37]	INFO	onMessage #13: {"cmd":"getOnline"}
+[2017-01-16 10:20:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:20:37]	INFO	[13] opcode=1
+[2017-01-16 10:20:37]	INFO	onMessage #13: {"cmd":"getHistory"}
+[2017-01-16 10:20:41]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:20:41]	INFO	[13] opcode=8
+[2017-01-16 10:20:41]	INFO	server close connection[13]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:20:41]	INFO	onOffline: 13
+[2017-01-16 10:20:41]	INFO	WebSocket connection #14 is connected
+[2017-01-16 10:20:43]	INFO	NewFrame finish. Opcode=8|Length=0
+[2017-01-16 10:20:43]	INFO	[14] opcode=8
+[2017-01-16 10:20:46]	INFO	WebSocket connection #15 is connected
+[2017-01-16 10:20:46]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:20:46]	INFO	[15] opcode=1
+[2017-01-16 10:20:46]	INFO	onMessage #15: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:20:46]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:20:46]	INFO	[15] opcode=1
+[2017-01-16 10:20:46]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2017-01-16 10:20:46]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:20:46]	INFO	[15] opcode=1
+[2017-01-16 10:20:46]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2017-01-16 10:20:47]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:20:47]	INFO	[15] opcode=8
+[2017-01-16 10:20:47]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:20:47]	INFO	onOffline: 15
+[2017-01-16 10:20:47]	INFO	WebSocket connection #16 is connected
+[2017-01-16 10:20:47]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:20:47]	INFO	[16] opcode=1
+[2017-01-16 10:20:47]	INFO	onMessage #16: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:20:47]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:20:47]	INFO	[16] opcode=1
+[2017-01-16 10:20:47]	INFO	onMessage #16: {"cmd":"getOnline"}
+[2017-01-16 10:20:47]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:20:47]	INFO	[16] opcode=1
+[2017-01-16 10:20:47]	INFO	onMessage #16: {"cmd":"getHistory"}
+[2017-01-16 10:20:47]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:20:47]	INFO	[16] opcode=8
+[2017-01-16 10:20:47]	INFO	server close connection[16]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:20:47]	INFO	onOffline: 16
+[2017-01-16 10:20:48]	INFO	WebSocket connection #17 is connected
+[2017-01-16 10:20:48]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:20:48]	INFO	[17] opcode=1
+[2017-01-16 10:20:48]	INFO	onMessage #17: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:20:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:20:48]	INFO	[17] opcode=1
+[2017-01-16 10:20:48]	INFO	onMessage #17: {"cmd":"getOnline"}
+[2017-01-16 10:20:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:20:48]	INFO	[17] opcode=1
+[2017-01-16 10:20:48]	INFO	onMessage #17: {"cmd":"getHistory"}
+[2017-01-16 10:20:49]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:20:49]	INFO	[17] opcode=8
+[2017-01-16 10:20:49]	INFO	server close connection[17]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:20:49]	INFO	onOffline: 17
+[2017-01-16 10:20:49]	INFO	WebSocket connection #18 is connected
+[2017-01-16 10:20:49]	INFO	NewFrame finish. Opcode=1|Length=37
+[2017-01-16 10:20:49]	INFO	[18] opcode=1
+[2017-01-16 10:20:49]	INFO	onMessage #18: {"cmd":"login","name":"","avatar":""}
+[2017-01-16 10:20:49]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:20:49]	INFO	[18] opcode=1
+[2017-01-16 10:20:49]	INFO	onMessage #18: {"cmd":"getOnline"}
+[2017-01-16 10:20:49]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:20:49]	INFO	[18] opcode=1
+[2017-01-16 10:20:49]	INFO	onMessage #18: {"cmd":"getHistory"}
+[2017-01-16 10:21:03]	INFO	onOffline: 14
+[2017-01-16 10:21:14]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:21:14]	INFO	[18] opcode=8
+[2017-01-16 10:21:14]	INFO	server close connection[18]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:21:14]	INFO	onOffline: 18
+[2017-01-16 10:21:14]	INFO	WebSocket connection #19 is connected
+[2017-01-16 10:26:55]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-01-16 10:27:03]	INFO	WebSocket connection #1 is connected
+[2017-01-16 10:27:03]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:27:03]	INFO	[1] opcode=1
+[2017-01-16 10:27:03]	INFO	onMessage #1: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:27:03]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:27:03]	INFO	[1] opcode=1
+[2017-01-16 10:27:03]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2017-01-16 10:27:03]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:27:03]	INFO	[1] opcode=1
+[2017-01-16 10:27:03]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2017-01-16 10:27:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 10:27:04]	INFO	[1] opcode=8
+[2017-01-16 10:27:04]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 10:27:04]	INFO	onOffline: 1
+[2017-01-16 10:27:05]	INFO	WebSocket connection #2 is connected
+[2017-01-16 10:27:05]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 10:27:05]	INFO	[2] opcode=1
+[2017-01-16 10:27:05]	INFO	onMessage #2: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 10:27:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 10:27:05]	INFO	[2] opcode=1
+[2017-01-16 10:27:05]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2017-01-16 10:27:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 10:27:05]	INFO	[2] opcode=1
+[2017-01-16 10:27:05]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2017-01-16 10:27:13]	INFO	NewFrame finish. Opcode=1|Length=67
+[2017-01-16 10:27:13]	INFO	[2] opcode=1
+[2017-01-16 10:27:13]	INFO	onMessage #2: {"cmd":"message","from":2,"channal":0,"data":"hello","type":"text"}
+[2017-01-16 10:27:13]	INFO	time #:
+[2017-01-16 13:30:37]	INFO	WebSocket connection #3 is connected
+[2017-01-16 13:30:37]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 13:30:37]	INFO	[3] opcode=1
+[2017-01-16 13:30:37]	INFO	onMessage #3: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 13:30:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 13:30:37]	INFO	[3] opcode=1
+[2017-01-16 13:30:37]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2017-01-16 13:30:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 13:30:37]	INFO	[3] opcode=1
+[2017-01-16 13:30:37]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2017-01-16 14:24:30]	INFO	NewFrame finish. Opcode=1|Length=65
+[2017-01-16 14:24:30]	INFO	[2] opcode=1
+[2017-01-16 14:24:30]	INFO	onMessage #2: {"cmd":"message","from":2,"channal":0,"data":"nnd","type":"text"}
+[2017-01-16 14:24:30]	INFO	time #:1484533633
+[2017-01-16 14:24:37]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:24:37]	INFO	[2] opcode=8
+[2017-01-16 14:24:37]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:24:37]	INFO	onOffline: 2
+[2017-01-16 14:24:37]	INFO	WebSocket connection #4 is connected
+[2017-01-16 14:24:37]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:24:37]	INFO	[4] opcode=1
+[2017-01-16 14:24:37]	INFO	onMessage #4: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:24:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:24:37]	INFO	[4] opcode=1
+[2017-01-16 14:24:37]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2017-01-16 14:24:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:24:37]	INFO	[4] opcode=1
+[2017-01-16 14:24:37]	INFO	onMessage #4: {"cmd":"getHistory"}
+[2017-01-16 14:24:39]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:24:39]	INFO	[4] opcode=8
+[2017-01-16 14:24:39]	INFO	server close connection[4]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:24:39]	INFO	onOffline: 4
+[2017-01-16 14:24:39]	INFO	WebSocket connection #5 is connected
+[2017-01-16 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:24:39]	INFO	[5] opcode=1
+[2017-01-16 14:24:39]	INFO	onMessage #5: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:24:39]	INFO	[5] opcode=1
+[2017-01-16 14:24:39]	INFO	onMessage #5: {"cmd":"getOnline"}
+[2017-01-16 14:24:39]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:24:39]	INFO	[5] opcode=1
+[2017-01-16 14:24:39]	INFO	onMessage #5: {"cmd":"getHistory"}
+[2017-01-16 14:24:45]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:24:45]	INFO	[3] opcode=8
+[2017-01-16 14:24:45]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:24:45]	INFO	onOffline: 3
+[2017-01-16 14:24:45]	INFO	WebSocket connection #6 is connected
+[2017-01-16 14:24:45]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:24:45]	INFO	[6] opcode=1
+[2017-01-16 14:24:45]	INFO	onMessage #6: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:24:45]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:24:45]	INFO	[6] opcode=1
+[2017-01-16 14:24:45]	INFO	onMessage #6: {"cmd":"getOnline"}
+[2017-01-16 14:24:45]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:24:45]	INFO	[6] opcode=1
+[2017-01-16 14:24:45]	INFO	onMessage #6: {"cmd":"getHistory"}
+[2017-01-16 14:24:54]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:24:54]	INFO	[5] opcode=8
+[2017-01-16 14:24:54]	INFO	server close connection[5]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:24:54]	INFO	onOffline: 5
+[2017-01-16 14:27:57]	INFO	WebSocket connection #7 is connected
+[2017-01-16 14:27:57]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:27:57]	INFO	[7] opcode=1
+[2017-01-16 14:27:57]	INFO	onMessage #7: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:27:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:27:57]	INFO	[7] opcode=1
+[2017-01-16 14:27:57]	INFO	onMessage #7: {"cmd":"getOnline"}
+[2017-01-16 14:27:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:27:57]	INFO	[7] opcode=1
+[2017-01-16 14:27:57]	INFO	onMessage #7: {"cmd":"getHistory"}
+[2017-01-16 14:28:08]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:28:08]	INFO	[7] opcode=8
+[2017-01-16 14:28:08]	INFO	server close connection[7]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:28:08]	INFO	onOffline: 7
+[2017-01-16 14:28:16]	INFO	WebSocket connection #8 is connected
+[2017-01-16 14:28:16]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:28:16]	INFO	[8] opcode=1
+[2017-01-16 14:28:16]	INFO	onMessage #8: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:28:16]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:28:16]	INFO	[8] opcode=1
+[2017-01-16 14:28:16]	INFO	onMessage #8: {"cmd":"getOnline"}
+[2017-01-16 14:28:16]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:28:16]	INFO	[8] opcode=1
+[2017-01-16 14:28:16]	INFO	onMessage #8: {"cmd":"getHistory"}
+[2017-01-16 14:28:20]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:28:20]	INFO	[8] opcode=8
+[2017-01-16 14:28:20]	INFO	server close connection[8]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:28:20]	INFO	onOffline: 8
+[2017-01-16 14:29:15]	INFO	WebSocket connection #9 is connected
+[2017-01-16 14:29:15]	INFO	NewFrame finish. Opcode=1|Length=100
+[2017-01-16 14:29:15]	INFO	[9] opcode=1
+[2017-01-16 14:29:15]	INFO	onMessage #9: {"cmd":"login","name":"ccc","avatar":"https://image.egret.com/game/gameIcon/181/90804/icon_180.jpg"}
+[2017-01-16 14:29:15]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:29:15]	INFO	[9] opcode=1
+[2017-01-16 14:29:15]	INFO	onMessage #9: {"cmd":"getOnline"}
+[2017-01-16 14:29:15]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:29:15]	INFO	[9] opcode=1
+[2017-01-16 14:29:15]	INFO	onMessage #9: {"cmd":"getHistory"}
+[2017-01-16 14:29:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:29:17]	INFO	[9] opcode=8
+[2017-01-16 14:29:17]	INFO	server close connection[9]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:29:17]	INFO	onOffline: 9
+[2017-01-16 14:29:17]	INFO	WebSocket connection #10 is connected
+[2017-01-16 14:29:17]	INFO	NewFrame finish. Opcode=1|Length=100
+[2017-01-16 14:29:17]	INFO	[10] opcode=1
+[2017-01-16 14:29:17]	INFO	onMessage #10: {"cmd":"login","name":"ccc","avatar":"https://image.egret.com/game/gameIcon/181/90804/icon_180.jpg"}
+[2017-01-16 14:29:17]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:29:17]	INFO	[10] opcode=1
+[2017-01-16 14:29:17]	INFO	onMessage #10: {"cmd":"getOnline"}
+[2017-01-16 14:29:17]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:29:17]	INFO	[10] opcode=1
+[2017-01-16 14:29:17]	INFO	onMessage #10: {"cmd":"getHistory"}
+[2017-01-16 14:29:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:29:18]	INFO	[10] opcode=8
+[2017-01-16 14:29:18]	INFO	server close connection[10]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:29:18]	INFO	onOffline: 10
+[2017-01-16 14:29:18]	INFO	WebSocket connection #11 is connected
+[2017-01-16 14:29:18]	INFO	NewFrame finish. Opcode=1|Length=100
+[2017-01-16 14:29:18]	INFO	[11] opcode=1
+[2017-01-16 14:29:18]	INFO	onMessage #11: {"cmd":"login","name":"ccc","avatar":"https://image.egret.com/game/gameIcon/181/90804/icon_180.jpg"}
+[2017-01-16 14:29:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:29:18]	INFO	[11] opcode=1
+[2017-01-16 14:29:18]	INFO	onMessage #11: {"cmd":"getOnline"}
+[2017-01-16 14:29:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:29:18]	INFO	[11] opcode=1
+[2017-01-16 14:29:18]	INFO	onMessage #11: {"cmd":"getHistory"}
+[2017-01-16 14:58:53]	INFO	WebSocket connection #12 is connected
+[2017-01-16 14:58:53]	INFO	NewFrame finish. Opcode=1|Length=99
+[2017-01-16 14:58:53]	INFO	[12] opcode=1
+[2017-01-16 14:58:53]	INFO	onMessage #12: {"cmd":"login","name":"xiaoxi","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 14:58:53]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 14:58:53]	INFO	[12] opcode=1
+[2017-01-16 14:58:53]	INFO	onMessage #12: {"cmd":"getOnline"}
+[2017-01-16 14:58:53]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 14:58:53]	INFO	[12] opcode=1
+[2017-01-16 14:58:53]	INFO	onMessage #12: {"cmd":"getHistory"}
+[2017-01-16 14:59:12]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 14:59:12]	INFO	[12] opcode=8
+[2017-01-16 14:59:12]	INFO	server close connection[12]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 14:59:12]	INFO	onOffline: 12
+[2017-01-16 15:49:13]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:49:28]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-01-16 15:49:32]	INFO	WebSocket connection #1 is connected
+[2017-01-16 15:49:34]	INFO	NewFrame finish. Opcode=8|Length=0
+[2017-01-16 15:49:34]	INFO	[1] opcode=8
+[2017-01-16 15:50:26]	INFO	onOffline: 1
+[2017-01-16 15:50:58]	INFO	WebSocket connection #2 is connected
+[2017-01-16 15:50:58]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:50:58]	INFO	[2] opcode=1
+[2017-01-16 15:50:58]	INFO	onMessage #2: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:50:58]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 15:50:58]	INFO	[2] opcode=1
+[2017-01-16 15:50:58]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2017-01-16 15:50:58]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 15:50:58]	INFO	[2] opcode=1
+[2017-01-16 15:50:58]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2017-01-16 15:51:00]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:51:00]	INFO	[2] opcode=8
+[2017-01-16 15:51:00]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:51:00]	INFO	onOffline: 2
+[2017-01-16 15:51:00]	INFO	WebSocket connection #3 is connected
+[2017-01-16 15:51:00]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:51:00]	INFO	[3] opcode=1
+[2017-01-16 15:51:00]	INFO	onMessage #3: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:51:00]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 15:51:00]	INFO	[3] opcode=1
+[2017-01-16 15:51:00]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2017-01-16 15:51:00]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 15:51:00]	INFO	[3] opcode=1
+[2017-01-16 15:51:00]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2017-01-16 15:52:02]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:52:02]	INFO	[3] opcode=8
+[2017-01-16 15:52:02]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:52:02]	INFO	onOffline: 3
+[2017-01-16 15:52:02]	INFO	WebSocket connection #4 is connected
+[2017-01-16 15:52:02]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:52:02]	INFO	[4] opcode=1
+[2017-01-16 15:52:02]	INFO	onMessage #4: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:52:02]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 15:52:02]	INFO	[4] opcode=1
+[2017-01-16 15:52:02]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2017-01-16 15:52:02]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 15:52:02]	INFO	[4] opcode=1
+[2017-01-16 15:52:02]	INFO	onMessage #4: {"cmd":"getHistory"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:52:03]	INFO	[4] opcode=8
+[2017-01-16 15:52:03]	INFO	server close connection[4]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:52:03]	INFO	onOffline: 4
+[2017-01-16 15:52:03]	INFO	WebSocket connection #5 is connected
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:52:03]	INFO	[5] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #5: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 15:52:03]	INFO	[5] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #5: {"cmd":"getOnline"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 15:52:03]	INFO	[5] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #5: {"cmd":"getHistory"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:52:03]	INFO	[5] opcode=8
+[2017-01-16 15:52:03]	INFO	server close connection[5]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:52:03]	INFO	onOffline: 5
+[2017-01-16 15:52:03]	INFO	WebSocket connection #6 is connected
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:52:03]	INFO	[6] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #6: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-01-16 15:52:03]	INFO	[6] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #6: {"cmd":"getOnline"}
+[2017-01-16 15:52:03]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-01-16 15:52:03]	INFO	[6] opcode=1
+[2017-01-16 15:52:03]	INFO	onMessage #6: {"cmd":"getHistory"}
+[2017-01-16 15:56:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:56:03]	INFO	[6] opcode=8
+[2017-01-16 15:56:03]	INFO	server close connection[6]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:56:03]	INFO	onOffline: 6
+[2017-01-16 15:56:15]	INFO	WebSocket connection #7 is connected
+[2017-01-16 15:56:15]	INFO	NewFrame finish. Opcode=1|Length=109
+[2017-01-16 15:56:15]	INFO	[7] opcode=1
+[2017-01-16 15:56:15]	INFO	onMessage #7: {"cmd":"login","name":"xiaoxi","uId":"1","avatar":"https://image.egret.com/game/gameIcon/0/257/icon_200.png"}
+[2017-01-16 15:56:15]	INFO	NewFrame finish. Opcode=1|Length=29
+[2017-01-16 15:56:15]	INFO	[7] opcode=1
+[2017-01-16 15:56:15]	INFO	onMessage #7: {"cmd":"getOnline","uId":"1"}
+[2017-01-16 15:56:15]	INFO	NewFrame finish. Opcode=1|Length=30
+[2017-01-16 15:56:15]	INFO	[7] opcode=1
+[2017-01-16 15:56:15]	INFO	onMessage #7: {"cmd":"getHistory","uId":"1"}
+[2017-01-16 15:56:22]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-01-16 15:56:22]	INFO	[7] opcode=8
+[2017-01-16 15:56:22]	INFO	server close connection[7]. reason: client active close, code=1001, close_code = 1002
+[2017-01-16 15:56:22]	INFO	onOffline: 7
+[2017-01-16 15:56:23]	INFO	WebSocket connection #8 is connected

@@ -1,0 +1,14 @@
+[2017-01-13 19:28:52 #24087.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-01-13 19:28:52 $24088.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-01-13 19:28:52 *24089.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-01-13 19:33:51 #24087.0]	NOTICE	Server is shutdown now.
+[2017-01-16 10:24:30 *599.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 2184 byte failed, because connection[fd=1] is closed.
+[2017-01-16 10:24:31 *599.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 2184 byte failed, because connection[fd=3] is closed.
+[2017-01-16 18:19:19 *1806.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 4186 byte failed, because connection[fd=5] is closed.
+[2017-02-06 10:35:45 *781.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 298 byte failed, because connection[fd=30] is closed.
+[2017-02-06 10:35:45 *781.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 93369 byte failed, because connection[fd=31] is closed.
+[2017-02-06 17:19:55 *1817.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 272 byte failed, because connection[fd=1] is closed.
+[2017-02-06 17:19:56 *1817.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 272 byte failed, because connection[fd=2] is closed.
+[2017-02-06 17:19:56 *1817.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 272 byte failed, because connection[fd=4] is closed.
+[2017-02-06 17:20:14 *1817.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 273 byte failed, because connection[fd=5] is closed.
+[2017-02-06 17:20:15 *1817.0]	ERROR	swFactoryProcess_finish (ERROR 1004): send 273 byte failed, because connection[fd=7] is closed.
