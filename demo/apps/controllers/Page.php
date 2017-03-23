@@ -17,14 +17,24 @@ class Page extends Swoole\Controller {
     function __construct($swoole) {
 
         parent::__construct($swoole);
+
         $this->checkLogin();
     }
 
+    function sendMessage() {
+
+        model('Message')->addMessage();
+        echo json_encode(array('code' => 0));
+    }
+
     function index() {
+//        $array = $this->codb->query("select * from message");
+//        $this->codb->wait(1.0);
+//        $data = $array->result->fetchall();
 
-        $result = $this->db->queryAll("SELECT * FROM user WHERE user_id = :uId",  array('uId' => 1));
 
-        $this->tpl->assign("data", $result);
+        $data = model('Message')->getMessageList();
+        $this->tpl->assign('data', $data);
         $this->tpl->assign("userInfo", $this->userInfo);
         $this->tpl->assign("title", "demo");
         $this->tpl->display("page/index.html");
@@ -32,11 +42,12 @@ class Page extends Swoole\Controller {
 
     protected function checkLogin() {
         $this->session->start();
-        $uId = $_SESSION['uId'];
-        $name = $_SESSION['name'];
+        $uId = $this->session->get('uId');
+        $name = $this->session->get('name');
 
         if (empty($name)) {
-            $this->http->redirect('/user/login');
+            $url = '/user/login/?refer=' . urlencode($_SERVER["REQUEST_URI"]);
+            $this->http->redirect($url);
         } else {
             $this->userInfo['name'] = $name;
             $this->userInfo['uId'] = $uId;
